@@ -75,7 +75,7 @@ pyserial
 
 ## 📸 Demo
 
->  <video controls src="demo.mp4" title="Video DEMO"></video>
+👉 [Download or view demo](demo.mp4)
 
 ---
 
